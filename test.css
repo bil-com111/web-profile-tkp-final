@@ -1,0 +1,49 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background-color: #957B2D;
+    width: 100%;
+    height: 450px;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: left;
+}
+.container-1 {
+    background-color: #957B2D;
+    width: 100%;
+    height: 450px;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: left;
+}
+
+#teks1 {
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+.penjelasan {
+    display: flex;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#tkp {
+    width: 340px;
+    height: 340px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+#judul {
+    font-size: 50px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
